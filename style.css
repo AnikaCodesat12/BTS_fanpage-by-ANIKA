@@ -1,0 +1,51 @@
+img{
+  width: 350px;
+}
+
+body{
+  color: White;
+  background-color: black;
+}
+
+#Name{
+  text-align: Center;
+}
+
+#about{
+  font-family: Lora, sans-serif;
+}
+
+#BTSabout{
+  font-family: Lato, sans-serif;
+}
+
+#awards{
+  font-family: Lora, sans-serif;
+}
+
+#BTSawards{
+  font-family: Lato, sans-serif;
+}
+
+#songs{
+  font-family: Lora, sans-serif;
+}
+
+#songinfo{
+  font-family: Lato, sans-serif;
+  
+}
+
+#last{
+  font-family: "Open Sans", sans-serif;
+  text-align: right
+}
+
+#songno{
+  font-family: Roboto, sans-serif;
+  
+}
+
+p{
+  font-family: Lato, sans-serif;
+}
